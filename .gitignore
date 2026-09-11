@@ -14,3 +14,8 @@ Thumbs.db
 *.png
 *.log
 *.tmp
+
+# 第三方工具本体与大数据目录(不入库)
+ffmpeg/
+rimworld_workshop/
+RimWorldModUpdater/
